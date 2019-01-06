@@ -1,0 +1,27 @@
+// round image
+
+/* ROUND IMAGE */
+.roundimage
+  padding: 100px
+  img
+    +imgclip( circle(50% at 50% 50%))
+    box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6)
+    border-radius: 50%
+
+/* GIFT CERTIFICATES */
+.gift
+  padding: 150px 50px
+  text-align: center
+  h2
+    color: $gold
+
+@media (max-width: 1066px)
+  .roundimage
+    padding: 100px 50px
+    img
+      width: 100% !important
+  .gift
+    padding: 100px 50px
+@media (max-width: 767px)
+  .roundimage
+    display: none

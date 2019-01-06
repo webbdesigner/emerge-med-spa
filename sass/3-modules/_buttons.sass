@@ -1,0 +1,38 @@
+// buttons
+
+/* BUTTONS */
+.btn-gold
+  background: $gold
+  border-radius: 0px
+  padding: 5px 80px
+  margin-top: 20px
+  outline: none
+  color: white
+  transition: all 0.5s ease
+  &:hover,
+  &:focus,
+  &:active
+    border: 1px solid $gold
+    outline-color: transparent
+    background: white
+    color: $gold
+
+.btn-min-block
+  min-width: 170px
+  line-height: 26px
+  border-radius: 0px
+
+.btn-clear
+  color: #FFF
+  background-color: transparent
+  border-color: #FFF
+  margin-right: 15px
+
+.btn-clear:hover
+  color: #000
+  background-color: #FFF
+
+@media (max-width: 767px)
+.btn-min-block
+  &:nth-child(2)
+    margin-top: 20px

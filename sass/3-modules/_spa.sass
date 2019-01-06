@@ -1,0 +1,92 @@
+/* inner pages */
+
+.med-spa,
+.about,
+.salon,
+.menu,
+.contact
+  h1
+    text-align: center
+    color: $gold
+    padding-top: 50px
+  h2, h4
+    color: $gold
+    padding-top: 20px
+  hr
+    border-bottom: 1px solid $gold
+    color: transparent
+    &:last-child
+      margin-bottom: 100px
+.filler
+  height: 400px
+  -webkit-background-size: cover
+  -moz-background-size: cover
+  background-size: cover
+  -o-background-size: cover
+.bg4
+  background: url("../images/bg4.jpg") no-repeat center center
+.bg3
+  background: url("../images/bg3.jpg") no-repeat center center
+.bg2
+  background: url("../images/bg2.jpg") no-repeat center center
+.bg1
+  background: url("../images/bg1.jpg") no-repeat center center
+
+.salon
+  .first
+    left: 22%
+  hr
+    width: 70%
+  ul
+    li
+      padding: 5px
+      list-style-type: square
+  .hair
+    padding-right: 15%
+    padding-top: 20px
+    li
+      padding: 0
+      border-bottom: 1px dashed $gold
+      margin-bottom: 10px
+  .add
+    padding: 20px 10px 10px 10px
+    li
+      list-style-type: none
+      margin-bottom: 10px
+      border-bottom: 1px dashed $black
+      &:last-child
+        margin-bottom: 20px
+    @media (max-width: 767px)
+      padding: 0
+
+.menu
+  padding-bottom: 50px
+  h6
+    color: $gold
+    border-bottom: 1px dashed $gray
+    font-size: 1.2rem
+    padding-top: 40px
+  span
+    float: right
+    display: inline-block
+    font-size: 1rem
+    padding-top: 4px
+  @media (max-width: 767px)
+    .col-md-5
+      padding: 20px
+      p
+        margin-bottom: 0rem
+      h6
+        padding-top: 0
+      hr
+        margin-bottom: 50px
+
+.well
+  padding: 20px 0px
+  background: rgba(0,0,0,0.15)
+  margin: 40px 5%
+  border: 0.5px solid #aaa
+  border-radius: 5px
+  @media (max-width: 767px)
+    padding: 0
+    margin: 0

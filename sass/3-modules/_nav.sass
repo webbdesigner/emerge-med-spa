@@ -1,0 +1,50 @@
+/* NAVIGATION */
+
+
+#mainNav
+  background-color: $black
+  .navbar-toggler
+    font-size: 12px
+    right: 0
+    padding: 13px
+    color: white
+    border: 0
+    background-color: $gold
+    font-family: $Abril
+  .navbar-brand
+    img
+      width: 200px
+
+  .navbar-nav .nav-item .nav-link
+    font-size: 90%
+    font-weight: 400
+    padding: 0.75em 20px
+    letter-spacing: 1px
+    color: white
+    font-family: $Abril
+    &:active,
+    &:hover
+      color: $gold
+      border-top: white 5px solid
+      margin-top: -5px
+
+@media (min-width: 992px)
+  #mainNav
+    padding-top: 0
+    padding-bottom: 0px
+    -webkit-transition: padding-top 0.3s, padding-bottom 0.3s
+    -moz-transition: padding-top 0.3s, padding-bottom 0.3s
+    transition: padding-top 0.3s, padding-bottom 0.3s
+    border: none
+    background: transparent
+    .navbar-brand
+      font-size: 1.75em
+      -webkit-transition: all 0.3s
+      -moz-transition: all 0.3s
+      transition: all 0.3s
+    .navbar-nav .nav-item .nav-link
+      padding: 2.7em 1.6em !important
+      display: flex
+  .navbar-shrink
+    background-color: $black !important
+    transition: all 1s ease !important

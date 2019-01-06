@@ -1,0 +1,67 @@
+// FORM
+
+/* FORM */
+#appointment
+  padding: 60px 0px
+  img
+    float: left
+    padding: 0 10px
+    width: 50%
+  .appt
+    text-align: center
+    padding: 0 50px
+    h2
+      color: $gold
+    img
+      clear: both
+      float: none
+
+.two-col
+    width: 50%
+    padding: 5px 10px
+    float: left
+    text-align: left
+    color: $gold
+    input, select
+      border-radius: 0px !important
+      &:hover,
+      &:focus,
+      &:active
+        border: 1px solid $gold
+        outline-color: transparent
+      &::placeholder
+        color: #7c7c7c
+        font-style: italic
+        font-weight: 100
+
+// Select function
+select
+  display: inline-block
+  width: 100%
+  cursor: pointer
+  outline: 0
+  padding: 6px 10px
+  border: 1px #ced4da solid
+  border-radius: 0px !important
+  background: white
+  color: $gray
+  appearance: none
+  -webkit-appearance: none
+  -moz-appearance: none
+  font-style: italic
+  font-weight: 100
+  &::-ms-expand
+    display: none
+
+  &:hover,
+  &:focus
+    border: 1px solid $gold
+  &:disabled
+    opacity: 0.5
+    pointer-events: none
+
+
+@media (max-width: 767px)
+  .appt
+    h2
+      padding-top: 40px
