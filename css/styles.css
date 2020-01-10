@@ -1,3 +1,6 @@
+/* VARIABLES */
+/* MIXINS */
+/* STYLES */
 /* BASE */
 body {
   width: 100%;
@@ -221,7 +224,7 @@ footer {
   border-radius: 0px; }
 
 .btn-clear {
-  color: #FFFFFF;
+  color: #FFF;
   background-color: transparent;
   border-color: #FFF;
   margin-right: 15px; }
@@ -229,6 +232,9 @@ footer {
 .btn-clear:hover {
   color: #000;
   background-color: #FFF; }
+
+.btn-min-block:nth-child(2) {
+  margin-top: 20px; }
 
 .reviews {
   text-align: center;

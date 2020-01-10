@@ -66,11 +66,11 @@
 
 
       <div class="card col-lg-4 col-md-4 col-s-6 col-xs-12">
-        <img src="images/bre.jpg" class="staff">
-        <h4 class="member-name">Bre Titus</h4>
+        <img src="images/jasmine.png" class="staff">
+        <h4 class="member-name">Jasmine Doubt</h4>
         <img class="divider" src="images/g-divider.png">
-        <p>Licensed Cosmetologist<br />
-          Nail Technician</p>
+        <p>Licensed Massage & Bodywork Therapist<br />
+          Lic # 14077</p>
       </div>
       <div class="card col-lg-4 col-md-4 col-s-6 col-xs-12">
         <img src="images/bobbie.jpg" class="staff">
