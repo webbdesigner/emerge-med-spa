@@ -26,6 +26,9 @@
   <h6>LIMELIGHT FACIAL <span class="price">$225<small> & up</small></span></h6>
   <p>Treatment of skin redness, tiny veins, brown spots & sun damage</p>
   <hr>
+  <h6>TITAN TREATMENT <span class="price">$500<small> & up</small></span></h6>
+  <p>Light-based skin tightening treatment</p>
+  <hr>
   <h6>TCA ORANGE LIFT <span class="price">$199</span></h6>
   <p>Peel for advanced aging, acne scarring, severe sun damage <br/>
   <small>  <em>*PRETREATMENT MANDATORY</em></small>
@@ -48,37 +51,37 @@
 
 
 <div class="col-md-5">
-  <h6>BASIC <span class="price"><small>30 min </small>$49</span></h6>
+  <h6>BASIC <span class="price"><small>30 min </small>$59</span></h6>
   <p>(Cleanse, Tone, Exfoliate, Masque, Serum/Crème, SPF, Lip & Eye Treatment)  </p>
   <hr>
-  <h6>SPA <span class="price"><small>1 hr </small>$69</span></h6>
+  <h6>SPA <span class="price"><small>1 hr </small>$79</span></h6>
   <p>(Basic Facial with Steam, Extractions if needed, & Scalp, Neck, Shoulder Massage)</p>
   <hr>
-  <h6>EMERGE <span class="price"><small>1 ½ hrs </small>$89</span></h6>
+  <h6>EMERGE <span class="price"><small>1 ½ hrs </small>$99</span></h6>
   <p>(Spa Facial with Ultrasound & Lymphatic Drainage) </p>
   <hr>
-  <h6>BE CLEAR PURIFYING FACIAL <span class="price">$79</span></h6>
+  <h6>BE CLEAR PURIFYING FACIAL <span class="price">$89</span></h6>
   <p>Oily, Acne, Acne Prone</p>
   <hr>
-  <h6>IMAGE SIGNATURE FACIAL <span class="price">$79</span></h6>
+  <h6>IMAGE SIGNATURE FACIAL <span class="price">$89</span></h6>
   <p>Aging, Dry, Smokers, Dull/Tired</p>
 
 </div>
 
 <div class="col-md-5">
-  <h6>ORMEDIC FACIAL<span class="price">$79</span></h6>
+  <h6>ORMEDIC FACIAL<span class="price">$89</span></h6>
   <p>Unbalanced, Pregnant, Teen</p>
   <hr>
-  <h6>THE MAX STEM CELL FACIAL <span class="price">$79</span></h6>
+  <h6>THE MAX STEM CELL FACIAL <span class="price">$89</span></h6>
   <p>All Skin Types, Aging, Dry</p>
   <hr>
-  <h6>ILLUMINATING FACIAL<span class="price">$79</span></h6>
+  <h6>ILLUMINATING FACIAL<span class="price">$89</span></h6>
   <p>Hyperpigmentation, sun spots</p>
   <hr>
-  <h6>ANTIOXIDANT, ANTI-AGING FACIAL <span class="price">$79</span></h6>
+  <h6>ANTIOXIDANT, ANTI-AGING FACIAL <span class="price">879</span></h6>
   <p>Treats redness, inflammation, dry/dehydrated and photo aging skin</p>
   <hr>
-  <h6>FIRMING NECK <br />& DECOLLETAGE TREATMENT<span class="price">$79</span></h6>
+  <h6>FIRMING NECK <br />& DECOLLETAGE TREATMENT<span class="price">$89</span></h6>
   <p>Targets pigmentation, wrinkles and lax skin</p>
 </div>
 
@@ -95,24 +98,26 @@
 <div class="col-md-1 hidden-md-down"></div>
 <div class="col-md-5 salon">
 <ul class="add">
-<li>OXYGEN THERAPY <span class="price">$19</span><br />
+<li>OXYGEN THERAPY <span class="price">$29</span><br />
 <em>Improves circulation in the skin</em></li>
-<li>LED LIGHT THERAPY <span class="price">$19</span><br />
+<li>LED LIGHT THERAPY <span class="price">$29</span><br />
 <em>Increases collagen production</em></li>
-<li>2 LAYER EYE LIFT<span class="price">$29</span><br />
+<li>2 LAYER EYE LIFT<span class="price">$39</span><br />
 <em>Decreases fine lines, wrinkles; improves hydration</em></li>
-<li>MICRODERMABRASION <span class="price">$29</span><br />
+<li>MICRODERMABRASION <span class="price">$39</span><br />
 <em>Physical exfoliation; polishes skin</em></li>
 </ul>
 </div>
 
 <div class="col-md-5 salon">
 <ul class="add">
-  <li>HAND REJUVENATING TREATMENT<span class="price">$29</span><br />
+  <li>HAND REJUVENATING TREATMENT<span class="price">$39</span><br />
   <em>Plumps skin; decreases age spots; hydrates</em></li>
-  <li>MICROCURRENT THERAPY <span class="price">$29</span><br />
+  <li>MICROCURRENT THERAPY <span class="price">$39</span><br />
   <em>Tightens skin</em></li>
-  <li>FOOT & LOWER LEG <br />REVITALIZATION TREATMENT <span class="price">$79</span><br />
+  <li>RADIOFREQUENCY <span class="price">$39</span><br />
+  <em>Decreases fine lines, Tightens skin</em></li>
+  <li>FOOT & LOWER LEG <br />REVITALIZATION TREATMENT <span class="price">$89</span><br />
   <em>Exfoliates; hydrates; relaxes</em></li>
 </ul>
 </div>
@@ -129,28 +134,28 @@
 <div class="col-md-1 hidden-md-down"></div>
 
 <div class="col-md-5">
-  <h6>ORMEDIC LIFT <span class="price">$89</span></h6>
+  <h6>ORMEDIC LIFT <span class="price">$99</span></h6>
   <p>Unbalanced, Sensitive & Teen</p>
   <hr>
-  <h6>IMAGE SIGNATURE FACELIFT <span class="price">$89</span></h6>
+  <h6>IMAGE SIGNATURE FACELIFT <span class="price">$99</span></h6>
   <p>Rosacea, Dry, Primer Peel</p>
   <hr>
-  <h6>BE CLEAR PURIFYING PEEL <span class="price">$89</span></h6>
+  <h6>BE CLEAR PURIFYING PEEL <span class="price">$99</span></h6>
   <p>Acne Grades I & II</p>
   <hr>
-  <h6>BETA LIFT	<span class="price">$89</span></h6>
+  <h6>BETA LIFT	<span class="price">$99</span></h6>
   <p>Acne Grades III & IV</p>
   <hr>
-  <h6>LIGHTENING LIFT<span class="price">$89</span></h6>
+  <h6>LIGHTENING LIFT<span class="price">$99</span></h6>
   <p>Sun Spots, Melasma, Uneven Skin Tone</p>
   <hr>
 </div>
 
 <div class="col-md-5">
-  <h6>WRINKLE LIFT<span class="price">$89</span></h6>
+  <h6>WRINKLE LIFT<span class="price">$99</span></h6>
   <p>Aging, Fine Lines & Wrinkles</p>
   <hr>
-  <h6>THE SIGNATURE FIRMING <br />NECK & DECOLLETAGE PEEL<span class="price">$19</span></h6>
+  <h6>THE SIGNATURE FIRMING <br />NECK & DECOLLETAGE PEEL<span class="price">$99</span></h6>
   <p>Leaves skin Tightened, Lightened & Toned</p>
   <hr>
   <h6>O2 LIFT<span class="price">$119</span></h6>

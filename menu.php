@@ -57,7 +57,7 @@
       <p>Deep, strong, invigorating massage designed to ease muscle soreness and tired joints from overuse or intensive exercise.</p>
       <hr>
       <h6>CHAIR<span class="price">$1<small>/min.</small></span></h6>
-      <h6>BODY EXFOLIATING TREATMENT <span class="price"> <small>1 ½ hrs. </small>$79</span></h6>
+      <h6>BODY EXFOLIATING TREATMENT <span class="price"> <small>1 ½ hrs. </small>$129</span></h6>
       <p>Dry brush, Scrub, and Moisturize</p>
       <hr>
       <h6>BODY LIFT (PEEL)<span class="price"><small>2 hrs. </small> $149</span></h6>
